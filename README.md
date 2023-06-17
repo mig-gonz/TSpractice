@@ -1,2 +1,2 @@
-# TSpractice
+# TypeScript practice
 
