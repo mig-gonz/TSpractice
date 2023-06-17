@@ -1,5 +1,5 @@
 import { add } from "./utility";
-
+//  TS practice
 const firstNumber = 2;
 const secondNumber = 3;
 
